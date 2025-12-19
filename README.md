@@ -285,10 +285,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Your Name**
 
-- Portfolio: [yourportfolio.com](https://yourportfolio.com)
-- LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
-- Email: your.email@example.com
-- GitHub: [@yourusername](https://github.com/yourusername)
+
+- LinkedIn: https://www.linkedin.com/in/alan-grace-890387299/
+- Email: Alan.grace@mnsu.edu
 
 ---
 
